@@ -10,7 +10,7 @@
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/spotify.png" width="80" height="80">](https://open.spotify.com/user/31ok5viispf7f2gjzpvcty2oyc5i)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/stackoverflow.png" width="80" height="80">](https://stackoverflow.com/users/16449946/rishav-kumar?tab=profile)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/wix.png" width="80" height="80">](https://manage.wix.com/account/account-settings?referralAdditionalInfo=account-manager)
-My Writing Samples
+</br>My Writing Samples</br>
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/wordpress.png" width="80" height="80">](https://rishavkumar812215194.wordpress.com)
 
 
