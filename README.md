@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rishav9852Kumar)    [![Github](https://img.shields.io/github/followers/Rishav9852Kumar?label=Follow&style=social)](https://github.com/Rishav9852Kumar)
 
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/linkden.png">](linkedin.com/in/rishav-kumar-iiitranchi)
-[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/leetcode.png">](https://leetcode.com/rishavkumaraug20005212/)
+[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/leetcode.png" style={size:50%;}>](https://leetcode.com/rishavkumaraug20005212/)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/linkden.png">](linkedin.com/in/rishav-kumar-iiitranchi)
 #### Hi, I am an undergrad 🎓 at the Indian Institute of Information Technology (IIIT) Ranchi[.](https://www.linkedin.com/in/rishav-kumar-iiitranchi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmZXSCFStSCGADlZ6ID5exg%3D%3D#) pursuing a Bachelor of Technology (Honours) in Computer Science and Engineering 💻🤖. I am interested in 👨‍💻 competitive coding, ✍️ creative writing, Debates and public speaking.
 
