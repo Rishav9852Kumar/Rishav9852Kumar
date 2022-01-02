@@ -7,7 +7,7 @@
 - 👯 As i am still a beginer I’m looking to collaborate on any first good issue related to c,c++,HTML,JavaScript,CSS, or any other documentations.
 <!--🤔 I’m looking for help with App development and Kotlin -->
 - 💬 Ask me about ...
-- 📫 How to reach me: You can Connect with me on [Linkden](linkedin.com/in/rishav-kumar-iiitranchi) [📧](rishavkumaraug2000@gmail.com) [Leetcode](https://leetcode.com/rishavkumaraug20005212/) [Codechef](https://www.codechef.com/users/rishavkum_123) [geeksforgeeks](https://auth.geeksforgeeks.org/user/rishavkumaraug20005212/practice/) [stackoverflow](https://stackoverflow.com/users/16449946/rishav-kumar?tab=profile)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: You can Connect with me on [Linkden](linkedin.com/in/rishav-kumar-iiitranchi) [📧](rishavkumaraug2000@gmail.com) [/ Leetcode](https://leetcode.com/rishavkumaraug20005212/) [/ Codechef](https://www.codechef.com/users/rishavkum_123) [/ geeksforgeeks](https://auth.geeksforgeeks.org/user/rishavkumaraug20005212/practice/) [/ stackoverflow](https://stackoverflow.com/users/16449946/rishav-kumar?tab=profile)
+- 😄 Pronouns: HE/Him
+- ⚡ Fun fact: People when talk to me assume me to know a lot about any given topic but the fact is i am the least of the two aware on any specific topic.
 
