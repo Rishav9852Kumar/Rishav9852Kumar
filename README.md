@@ -11,4 +11,5 @@
 - 📫 How to reach me: You can Connect with me on [Linkden](linkedin.com/in/rishav-kumar-iiitranchi) [/ Gmail 📧](rishavkumaraug2000@gmail.com) [/ Leetcode](https://leetcode.com/rishavkumaraug20005212/) [/ Codechef](https://www.codechef.com/users/rishavkum_123) [/ geeksforgeeks](https://auth.geeksforgeeks.org/user/rishavkumaraug20005212/practice/) [/ stackoverflow](https://stackoverflow.com/users/16449946/rishav-kumar?tab=profile)
 - 😄 Pronouns: HE/Him
 - ⚡ Fun fact: People when talk to me assume me to know a lot about any given topic but the fact is , i am the least among the two aware on that given topic.
-![GitHub stats](https://camo.githubusercontent.com/f4c661340756f044fd883793c6455a17bbacebedfea193380bb3bf5562df68d7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d61757261)
+
+![GitHub stats](![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishav9852Kumar&show_icons=true&theme=aura))
