@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Rishav Kumar Gupta 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Rishav9852Kumar)    [![Github](https://img.shields.io/github/followers/Rishav9852Kumar?label=Follow&style=social)](https://github.com/Rishav9852Kumar)
+![](https://visitor-badge.laobi.icu/badge?page_id=Rishav9852Kumar)    [![Github](https://img.shields.io/github/followers/Rishav9852Kumar?label=Follow&style=social)](https://github.com/Rishav9852Kumar)</br>
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/linkden.png" width="80" height="80">](https://www.linkedin.com/in/rishav-kumar-iiitranchi)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/codechef.png" width="80" height="80">](https://www.codechef.com/users/rishavkum_123)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/gmail.png" width="80" height="80">](rishavkumaraug2000@gmail.com)
