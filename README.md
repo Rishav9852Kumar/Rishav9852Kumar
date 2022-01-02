@@ -6,7 +6,7 @@
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/codechef.png">](https://www.codechef.com/users/rishavkum_123)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/gmail.png">](rishavkumaraug2000@gmail.com)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/stackoverflow.png">](https://stackoverflow.com/users/16449946/rishav-kumar?tab=profile)
-[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/spotify.png" width="50" height="50">](https://open.spotify.com/user/31ok5viispf7f2gjzpvcty2oyc5i)
+[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/spotify.png" width="80" height="80">](https://open.spotify.com/user/31ok5viispf7f2gjzpvcty2oyc5i)
 
 #### Hi, I am an undergrad 🎓 at the Indian Institute of Information Technology (IIIT) Ranchi[.](https://www.linkedin.com/in/rishav-kumar-iiitranchi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmZXSCFStSCGADlZ6ID5exg%3D%3D#) pursuing a Bachelor of Technology (Honours) in Computer Science and Engineering 💻🤖. I am interested in 👨‍💻 competitive coding, ✍️ creative writing, Debates and public speaking.
 
