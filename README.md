@@ -13,7 +13,7 @@
 
 ## My Writing Samples</br>
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/wordpress.png" width="80" height="80">](https://rishavkumar812215194.wordpress.com)
-
+[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/dev.png" width="80" height="80">](https://dev.to/rishav9852kumar)
 
 #### Hi, I am an undergrad 🎓 at the Indian Institute of Information Technology (IIIT) Ranchi[.](https://www.linkedin.com/in/rishav-kumar-iiitranchi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmZXSCFStSCGADlZ6ID5exg%3D%3D#) pursuing a Bachelor of Technology (Honours) in Computer Science and Engineering 💻🤖. I am interested in 👨‍💻 competitive coding, ✍️ creative writing, Debates and public speaking.
 
