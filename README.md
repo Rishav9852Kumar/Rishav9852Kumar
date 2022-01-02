@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Rishav Kumar Gupta 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rishav9852Kumar)    [![Github](https://img.shields.io/github/followers/Rishav9852Kumar?label=Follow&style=social)](https://github.com/Rishav9852Kumar)</br>
-## Connect with me on </br>
+## 📫 How to reach me: You can Connect with me on </br>
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/linkden.png" width="80" height="80">](https://www.linkedin.com/in/rishav-kumar-iiitranchi)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/leetcode.png" width="80" height="80">](https://leetcode.com/rishavkumaraug20005212/)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/codechef.png" width="80" height="80">](https://www.codechef.com/users/rishavkum_123)
@@ -23,7 +23,6 @@
 - 👯 As i am still a beginer I’m looking to collaborate on any first good issue related to c,c++,HTML,JavaScript,CSS, or any other documentations.
 <!--🤔 I’m looking for help with App development and Kotlin -->
 - 💬 Ask me about ...
-- 📫 How to reach me: You can Connect with me on [Linkden](linkedin.com/in/rishav-kumar-iiitranchi) [/ Gmail 📧](rishavkumaraug2000@gmail.com) [/ Leetcode](https://leetcode.com/rishavkumaraug20005212/) [/ Codechef](https://www.codechef.com/users/rishavkum_123) [/ geeksforgeeks](https://auth.geeksforgeeks.org/user/rishavkumaraug20005212/practice/) [/ stackoverflow](https://stackoverflow.com/users/16449946/rishav-kumar?tab=profile) [Spotify](https://open.spotify.com/user/31ok5viispf7f2gjzpvcty2oyc5i)
 - 😄 Pronouns: HE/Him
 - ⚡ Fun fact: People when talk to me assume me to know a lot about any given topic but the fact is , i am the least among the two aware on that given topic.
 
