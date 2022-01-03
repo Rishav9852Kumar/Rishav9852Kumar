@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Rishav Kumar Gupta 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rishav9852Kumar)    [![Github](https://img.shields.io/github/followers/Rishav9852Kumar?label=Follow&style=social)](https://github.com/Rishav9852Kumar)</br>
-![Rishav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime Rishav9852Kumar )(https://github.com/anuraghazra/github-readme-stats)
 ## 📫 How to reach me: You can Connect with me on </br>
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/linkden.png" width="70" height="70">](https://www.linkedin.com/in/rishav-kumar-iiitranchi)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/leetcode.png" width="70" height="70">](https://leetcode.com/rishavkumaraug20005212/)
