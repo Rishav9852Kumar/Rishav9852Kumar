@@ -1,4 +1,4 @@
-## Hi there 👋 I am ***Rishav Kumar Gupta***
+## Hi there 👋 I am ***< style ="color:red">Rishav Kumar Gupta</style>***
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rishav9852Kumar)    [![Github](https://img.shields.io/github/followers/Rishav9852Kumar?label=Follow&style=social)](https://github.com/Rishav9852Kumar)</br>
 ## 📫 How to reach me: You can Connect with me on </br>
