@@ -30,10 +30,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav9852Kumar&theme=aura) 
   
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Rishav9852Kumar&show_icons=true&locale=en&theme=aura" alt="Rishav9852Kumar"/>
+  
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav9852Kumar&theme=radical" alt="Rishav9852Kumar" />
 </p>
 
-
+ 
 
 
