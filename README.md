@@ -28,3 +28,16 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishav9852Kumar&show_icons=true&theme=aura) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav9852Kumar&theme=aura) 
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Rishav9852Kumar&show_icons=true&locale=en&theme=radical"                alt="Rishav9852Kumar"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav9852Kumar&theme=radical" alt="Rishav9852Kumar" />
+</p>
+
+<!-- <p align="center"> 
+  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav9852Kumar&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+</p> -->
+
+# Contributions
+(in the last 365 days, languages pie based on number of commits)
+
+![](./profile-3d-contrib/profile-night-green.svg)
