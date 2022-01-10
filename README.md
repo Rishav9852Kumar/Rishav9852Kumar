@@ -27,7 +27,7 @@
 - ⚡ Fun fact: People when talk to me assume me to know a lot about any given topic but the fact is , i am the least among the two aware on that given topic.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav9852Kumar&theme=aura align="center") 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav9852Kumar&theme=aura) 
   
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Rishav9852Kumar&show_icons=true&locale=en&theme=aura" alt="Rishav9852Kumar"/>
