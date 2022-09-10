@@ -3,9 +3,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rishav9852Kumar)    [![Github](https://img.shields.io/github/followers/Rishav9852Kumar?label=Follow&style=social)](https://github.com/Rishav9852Kumar)</br>
 ## 📫 How to reach me: You can Connect with me on </br>
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/linkden.png" width="70" height="70">](https://www.linkedin.com/in/rishav-kumar-iiitranchi)
-[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/leetcode.png" width="70" height="70">](https://leetcode.com/rishavakumaraug20005212/)
+[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/leetcode.png" width="70" height="70">](https://leetcode.com/rishavkumaraug20005212/)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/codechef.png" width="70" height="70">](https://www.codechef.com/users/rishavkum_123)
-[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/GeeksforGeeks.png" width="70" height="70">](https://auth.geeksforgeeks.org/user/rishavkumaraug20005212/practice/)
+[<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/GeeksforGeeks.png" width="70" height="70">](https://auth.geeksforgeeks.org/user/rishavkumaraug20005212/profile)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/gmail.png" width="70" height="70">](mailto::rishavkumaraug2000@gmail.com)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/spotify.png" width="70" height="70">](https://open.spotify.com/user/31ok5viispf7f2gjzpvcty2oyc5i)
 [<img src="https://github.com/Rishav9852Kumar/Rishav9852Kumar/blob/main/IMAGE/stackoverflow.png" width="70" height="70">](https://stackoverflow.com/users/16449946/rishav-kumar?tab=profile)
